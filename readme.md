@@ -73,3 +73,10 @@ Not Selected – No meal plan selected
 **no_of_special_requests:** Total number of special requests made by the customer (e.g. high floor, view from the room, etc)
 
 **booking_status:** Flag indicating if the booking was canceled or not.
+
+
+
+## Authors
+
+- [@code-l0n3ly](https://www.github.com/code-l0n3ly)
+
